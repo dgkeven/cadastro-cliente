@@ -40,7 +40,6 @@ Certifique-se de ter instalado em sua máquina:
 
    ```bash
    git@github.com:dgkeven/cadastro-cliente.git
-   cd cadastro-clientes
    ```
 
 2. Instale as dependências do projeto:
